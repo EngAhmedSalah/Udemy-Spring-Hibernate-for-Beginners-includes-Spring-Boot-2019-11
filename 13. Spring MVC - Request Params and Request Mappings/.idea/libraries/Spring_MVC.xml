@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-aop-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-aspects-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-beans-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-context-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-context-support-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-core-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-expression-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-instrument-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-jdbc-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-jms-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-messaging-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-orm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-oxm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-test-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-tx-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-web-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../untitled/lib/spring-webmvc-5.2.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
